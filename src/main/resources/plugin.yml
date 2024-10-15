@@ -1,0 +1,4 @@
+name: ThatFancyHoe
+version: '1.0'
+main: lol.anekodot.thatfancyhoe.Main
+api-version: '1.21'
